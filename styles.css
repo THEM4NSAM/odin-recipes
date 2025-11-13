@@ -1,0 +1,20 @@
+.main-content {
+    font-family: Helvetica, Verdana, sans-serif;
+    text-align: center;
+    max-width: 1200px;
+    margin: auto;
+}
+
+ol,
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+.section-title span {
+    background-color: rgb(112, 208, 250);
+    padding: 10px;
+    border-radius: 1rem;
+    display: inline-block;
+    margin-top: 20px;
+}
